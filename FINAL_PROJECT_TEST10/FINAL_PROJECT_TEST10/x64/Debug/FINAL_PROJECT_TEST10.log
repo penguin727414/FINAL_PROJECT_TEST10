@@ -1,0 +1,3 @@
+﻿  FINAL_PROJECT_TEST10.c
+C:\Users\user\OneDrive\Desktop\FINAL_PROJECT_TEST10\FINAL_PROJECT_TEST10.c(11,11): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  FINAL_PROJECT_TEST10.vcxproj -> C:\Users\user\OneDrive\Desktop\FINAL_PROJECT_TEST10\FINAL_PROJECT_TEST10\x64\Debug\FINAL_PROJECT_TEST10.exe
